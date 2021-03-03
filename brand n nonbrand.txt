@@ -1,0 +1,5 @@
+non brands   brands
+Manufacturer  Distibutor 
+              Wholseleler        ebay.com   amazon.com  amazon.in
+wholseller Retailer
+retailer
